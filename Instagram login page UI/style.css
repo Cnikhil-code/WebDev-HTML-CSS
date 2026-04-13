@@ -67,5 +67,9 @@ p {
 .signup span {
     color: #0095f6;
     font-weight: bold;
+}
+
+span:hover {
+    color: #1877f2;
     cursor: pointer;
 }
